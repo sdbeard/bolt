@@ -2,3 +2,5 @@
 *.test
 *.swp
 /bin/
+*.db
+.vscode
